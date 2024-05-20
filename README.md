@@ -1,3 +1,4 @@
+![logo]("C:\Users\Sounak Sengupta\Downloads\hour.gif")
 <h1 align="center">Hi 👋, I'm Sounak Sengupta</h1>
 <h3 align="center">A machine learning enthusiast from India</h3>
 
