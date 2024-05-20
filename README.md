@@ -1,3 +1,4 @@
+![logo](https://github.com/Sounak-131/Sounak_KGP/blob/main/hour%20(1).gif)
 <h1 align="center">Hi 👋, I'm Sounak Sengupta</h1>
 <h3 align="center">A machine learning enthusiast from India</h3>
 
